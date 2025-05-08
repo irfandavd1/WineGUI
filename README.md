@@ -46,15 +46,10 @@ Or make it executable and run directly:
 chmod +x Revamped_GUI-Wine.py
 ./Revamped_GUI-Wine.py
 
-🖼️ Screenshot (Optional)
-
-    Add a screenshot of the app here if u want visual appeal
-    ![Wine GUI Screenshot](path/to/screenshot.png)
-
 🧩 File Structure
 
 Revamped_GUI-Wine.py   # main Python GTK3 app
-README.md              # this file
+README.md              
 
 ❗ Notes
 
@@ -72,6 +67,3 @@ README.md              # this file
 
     Permissions issue → Ensure the script is executable
 
-📜 License
-
-MIT License
